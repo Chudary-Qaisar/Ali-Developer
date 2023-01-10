@@ -1,0 +1,445 @@
+*{
+    margin: 0; padding: 0;
+}
+.akhri{
+    position: relative;
+    width: 100%;
+}
+.akhri{
+    background-image: url(BE\ The\ Source\ of\ yours\ owm\ Smilies.png);
+    background-size: cover;
+    color: white;
+    height: 100vh;
+    background-position: center;
+
+}
+.side-bar{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding:10px;
+}
+.akhri-2{
+    display: flex;
+    text-transform: capitalize;
+}
+span{
+    color: tomato;
+}
+.ali:hover{
+    color: tomato;
+}
+.akhri-3{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    padding: 6px;
+    background-color:dimgray;
+    border-radius: 30px;
+    margin: 10px;
+}
+.aali:hover{
+    background-color: white;
+    border-radius: 10px;
+}
+    .title{
+        height: 1530px;
+        background-color: rgba(211, 211, 211, 0.215);
+    }
+    .ali-haider{
+        padding-top: 30px;
+        width: 98.4%;
+        height: 120px;
+        background-color: lightsalmon;
+        word-spacing: 20px;
+        padding-left: 20px;
+    }
+    .phla{
+        background-color: black;
+        color: white;
+        width: 60px;
+        height: 30px;
+        border: 1px solid black;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .phla:hover{
+        background-color: white;
+        color: black;
+        cursor: pointer;
+        border: 1px solid white;
+        font-weight: bold;
+    }
+    .doja{
+        background-color: white;
+        color: black;
+        width: 60px;
+        height: 30px;
+        border: 1px solid white;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .doja:hover{
+        background-color: black;
+        color: white;
+        cursor: pointer;
+        border: 1px solid black;
+        font-weight: bold;
+    }
+    .cards{
+        position: relative;
+        display:flex;
+        padding: 20px;
+        grid-column-gap: 10px;
+        background-color: lightgrey;
+        height: 1350px;
+    }
+    .card1{
+        width: 390px;
+        height: 350px;
+        border: 2px solid lightgrey;
+        background-color: white;
+    }
+    .card2{
+        width: 390px;
+        height: 350px;
+        border: 2px solid lightgrey;
+        background-color: white;
+    }
+    .card3{
+        width: 390px;
+        height: 350px;
+        border: 2px solid lightgrey;
+        background-color: white;
+    }
+    .card4{
+        position: absolute;
+        top: 400px;
+        width: 390px;
+        height: 350px;
+        border: 2px solid lightgrey;
+        background-color: white;
+    }
+    .card5{
+        position: absolute;
+        top: 400px;
+        left: 425px;
+        width: 390px;
+        height: 350px;
+        border: 2px solid lightgrey;
+        background-color: white;
+    }
+    .card6{
+        position: absolute;
+        left: 830px;
+        top: 400px;
+        width: 390px;
+        height: 350px;
+        border: 2px solid lightgrey;
+        background-color: white;
+    }
+    .img{
+        position: absolute;
+        top: 780px;
+    }
+    .img p{
+        width: 80%;
+        font-size: 20px;
+    }
+    h2{
+        padding: 20px 0px 20px 0px;
+    }
+    .skill{
+        padding-left: 10px;
+        background-color: rgba(0, 0, 0, 0.1);
+    }
+    .skill h2{
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .box{
+        width: 90%;
+        height: 30px;
+        background-color: grey;
+        border-radius: 15px;
+        position: relative;
+    }
+    .box1{
+        width: 95%;
+        height: 30px;
+        background-color: aqua;
+        border-radius: 15px;
+    }
+    .box2{
+        width: 90%;
+        height: 30px;
+        background-color: aqua;
+        border-radius: 15px;
+    }
+    .box3{
+        width: 85%;
+        height: 30px;
+        background-color: aqua;
+        border-radius: 15px;
+    }
+    p{
+        color: black;
+        text-align: center;
+        font-weight: bolder;
+    }
+    .padd1{
+        padding: 15px 0px 15px 0px;
+    }
+    .padd2{
+        padding: 15px 0px 15px 0px;
+    }
+    .padd3{
+        padding: 15px 0px 15px 0px;
+    }
+    .botton{
+        width: 150px;
+        height: 40px;
+        font-size: 15px;
+        color: white;
+        font-weight: bold;
+        background-color: black;
+        border: none;
+    }
+    .botton:hover{
+        background-color: white;
+        color: black;
+        cursor: pointer;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .card-value{
+        display: flex;
+        padding: 20px;
+        background-color: lightgrey;
+        height: 550px;
+    }
+    h3{
+        padding: 40px;
+        font-size: 25px;
+    }
+    p{
+        opacity: 0.7;
+    }
+    .proo{
+        background-color: cornflowerblue;
+        color: white;
+    }
+    .blaa{
+        background-color: rgba(0, 0, 0, 0.79);
+        color: white;
+    }
+    .bod-1{
+        border: 1px solid rgba(128, 128, 128, 0.826);
+        padding-bottom: 20px;
+    }
+    .card-value-1{
+        width: 390px; 
+        height: 450px;
+        text-align: center;
+        line-height: 50px;
+        margin-right: 20px;
+        background-color: white;
+        font-size: 17px;
+    }
+    .card-value-1:hover{
+        background-color:rgba(0, 0, 0, 0.1)
+    }
+    .lii:hover{
+        color: white;
+    }
+    .blaa:hover{
+        background-color: black;
+    }
+    .batoon:hover{
+        background-color:black ;
+        color: white;
+        cursor: pointer;
+    }
+    .card-value-2{
+        /* border: 3px solid white; */
+        width: 390px; 
+        height: 450px;
+        text-align: center;
+        line-height: 50px;
+        margin-right: 20px;
+        background-color: white;
+        font-size: 17px;
+    }
+    .card-value-2:hover{
+        background-color:rgba(0, 0, 0, 0.1)
+    }
+    .lii-2:hover{
+        color: white;
+    }
+    .proo:hover{
+        background-color:rgb(59, 165, 231);
+    }
+    .batoon:hover{
+        background-color:black;
+        color: white;
+        cursor: pointer;
+    }
+    .card-value-3{
+        /* border: 3px solid white; */
+        width: 390px; 
+        height: 450px;
+        text-align: center;
+        line-height: 50px;
+        margin-right: 20px;
+        background-color: white;
+        font-size: 17px;
+    }
+    .card-value-3:hover{
+        background-color:rgba(0, 0, 0, 0.1)
+    }
+    .lii-3:hover{
+        color: white;
+    }
+    .batoon:hover{
+        background-color:black;
+        color: white;
+        cursor: pointer;
+    }
+    .batoon{
+        background-color: aqua;
+        color: black;
+        height: 50px;
+        width: 120px;
+        border: none;
+        font-weight: bold;
+        font-size: 17px;
+    }
+    .contact-me{
+        background-color: rgb(155, 152, 152);
+    }
+    .contact-me h1{
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+    .pdda{
+        display: flex;
+        /* background-color: rgb(155, 152, 152); */
+    }
+    .mail{
+        /* border: 2px solid black; */
+        width: 300px;
+        height: 20px;
+        margin: 20px;
+        text-align: center;
+        background-color:darkgray;
+        color: white;
+    }
+    .mail:hover{
+        background-color: black;
+        color: white;
+        cursor: pointer;
+    }
+    .adda{
+        /* border: 2px solid black; */
+        width: 300px;
+        height: 20px;
+        margin: 20px;
+        text-align: center;
+        background-color:rgba(255, 99, 71, 0.822);
+        color: white;
+    }
+    .adda:hover{
+        background-color: white;
+        color: black;
+        cursor: pointer;
+    }
+    .numa{
+        /* border: 2px solid black; */
+        width: 300px;
+        height: 20px;
+        margin: 20px;
+        text-align: center;
+        background-color: darkgray;
+        color: white;
+    }
+    .numa:hover{
+        background-color: black;
+        color: white;
+        cursor: pointer;
+    }
+    .info{
+        /* background-color: rgb(155, 152, 152); */
+        padding-top: 30px;
+        padding-left: 20px;
+        position: relative;
+    }
+    .info input{
+        width: 95%;
+        height: 35px;
+    }
+    .ppp{
+        font-size: 20px;
+        text-align: left;
+    }
+    .batoom{
+        background-color: black;
+        color: white;
+        font-size: 15px;
+        width: 150px;
+        height: 40px;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .batoom:hover{
+        background-color: white;
+        color: black;
+        border: none;
+        font-weight: bold;
+        font-size: 15px;
+    }
+    .footer{
+        width: 100%;
+        height: 300px;
+        display: flex;
+        background-color: gray;
+    }
+    .cls-1{
+        width: 500px;
+        padding-left: 20px;
+        padding-top: 20px;
+        color: aliceblue;
+    }
+    .cls-1 p{
+        color: white;
+    }
+    .cls-2 p{
+        color: aliceblue;
+    }
+    .cls-2{
+        width: 500px;
+        padding-left: 120px;
+        padding-top: 20px;
+        color: aliceblue;
+        position: relative;
+    }
+    .cls-2 :last-child{
+        position: absolute;
+        left: 320px;
+        bottom: 70px;
+    }
+    .cls-2 h1{
+        padding-bottom: 20px;
+    }
+    .cls-3{
+        margin-top: -30px;
+    }
+    .last{
+        background-color: gray;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .last:hover{
+        color: white;
+        cursor: pointer;
+    }
